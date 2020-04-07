@@ -1,4 +1,4 @@
-from new_col import col_adder
+from my_lambdata.new_col import col_adder
 import pandas as pd
 
 data_list = [1,2,3,4]
