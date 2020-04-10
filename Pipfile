@@ -10,6 +10,7 @@ twine = "*"
 [packages]
 pandas = "*"
 numpy = "*"
+unittest = "*"
 
 [requires]
 python_version = "3.7"
